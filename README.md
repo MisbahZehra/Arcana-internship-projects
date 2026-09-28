@@ -1,3 +1,6 @@
+## 🎓 Final Internship Project
+This project, the **AI & Data Science RAG Knowledge Assistant**, is my **final project** for the Arcana internship. It builds on the concepts and skills I learned during the 9 weeks of internship tasks. The weekly tasks are available in the `weekly-tasks/` folder of this repository.
+
 # AI & Data Science Knowledge Assistant
 
 An end-to-end Retrieval-Augmented Generation (RAG) chatbot designed for AI and data science learning. The application grounds each answer in a curated knowledge base of educational PDFs and supports follow-up questions, conversation memory, feedback, and controlled knowledge expansion.
