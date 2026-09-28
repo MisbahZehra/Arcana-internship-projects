@@ -1,0 +1,12 @@
+.env
+memory.db
+memory.db-shm
+memory.db-wal
+.faiss_index_staging_*/
+.faiss_index_backup_*/
+__pycache__/
+*.pyc
+.venv/
+venv/
+faiss_index/
+.DS_Store
